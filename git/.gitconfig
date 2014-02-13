@@ -1,0 +1,19 @@
+[user]
+	name = cod7ce
+	email = cod7ce@gmail.com
+[alias]
+	st = status
+	ci = commit
+	co = checkout
+	br = branch
+	df = diff
+	log1 = log --oneline
+[gui]
+  encoding = utf-8
+[color]
+  ui = always
+[core]
+  editor = vim
+	excludesfile = ~/.gitignore_global
+[push]
+	default = matching 
