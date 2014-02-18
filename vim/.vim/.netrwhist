@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/cipiglio/Desktop/myapp'
+let g:netrw_dirhist_2='/Users/cipiglio/Desktop/railsapp/test'
+let g:netrw_dirhist_3='/Users/cipiglio/Documents/Git/Github/maison'
+let g:netrw_dirhist_4='/Users/cipiglio/Desktop/maison_development'
+let g:netrw_dirhist_5='/Users/cipiglio/Desktop/ios/wechat'
+let g:netrw_dirhist_6='/Users/cipiglio/Documents/Git/Github/maison'
+let g:netrw_dirhist_7='/Users/cod7ce'
